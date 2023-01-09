@@ -14,7 +14,7 @@ for (let i = 0; i < items.length; i++) {
 
 // VERSIONE WHILE ESERCIZIO 
 
-const spesaDaFare = ['Pizza', 'Pasta', 'Carne', 'Torta'];
+const spesaDaFare = ['Pizza', 'Pasta', 'Carne', 'Torta',];
 
 let x = 0;
 const itemsTwo = document.getElementById('itemsTwo');
